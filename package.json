@@ -1,0 +1,23 @@
+{
+  "name": "test-pack",
+  "version": "0.0.1",
+  "description": "This is a test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priom7/test-pack.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "priom7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Priom7/test-pack/issues"
+  },
+  "homepage": "https://github.com/Priom7/test-pack#readme"
+}
+
